@@ -81,6 +81,5 @@
 - SCP `-----}` deliverable `-------}` RISC-V
 
 
-
-
+![Screenshot from 2024-05-01 17-31-28](https://github.com/PranabNandy/SCP/assets/34576104/c1e6bf0c-5ca2-41d2-80d2-22cb1ba90e0a)
 
