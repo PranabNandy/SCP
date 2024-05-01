@@ -87,4 +87,5 @@
 This is a Software (asm) Library, which is invoked by TZ software, during early boot initialization of a CPU and **before MMU is enabled**. The software runs at **EL3** and is invoked at both **power on** and **power collapse exit** `(LPM d4 mode)` for a CPU.
 
 ## MPMM
-![Screenshot from 2024-05-01 22-32-54](https://github.com/PranabNandy/SCP/assets/34576104/b0fe3ca7-b427-4a64-a3b6-f87af0f5c095)
+![Screenshot from 2024-05-01 22-50-16](https://github.com/PranabNandy/SCP/assets/34576104/ec8861bc-d778-48c9-aab5-87b11a6ad706)
+
