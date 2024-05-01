@@ -1,3 +1,4 @@
+
 # SCP
 - It is standard for System Co-Processor which helps the actual processor for better Execution Performance
 - Like CPU Co-Processor
@@ -36,3 +37,5 @@
    + cpuFreq_Stats (dcvs residency date)
    + PLH ( perf lock hardening)
    + pf_Tune ( APSS cpu prefetch tuning based on CPU load)
+
+![Screenshot from 2024-05-01 15-11-07](https://github.com/PranabNandy/SCP/assets/34576104/18ef9b44-cdbd-4104-9297-2b16b9436e11)
