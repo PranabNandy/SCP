@@ -12,3 +12,7 @@
 
 ## Who Generates More Revenu
 ![Screenshot from 2024-05-11 13-37-05](https://github.com/PranabNandy/SCP/assets/34576104/5620b52d-fad5-4f57-9e77-e195d133d493)
+
+## Which country does what
+- India does only Design and Verification of Chips via Fabless companies
+![Screenshot from 2024-05-11 15-35-03](https://github.com/PranabNandy/SCP/assets/34576104/e622f53e-6f34-4fdc-bd0f-240863c59bb9)
