@@ -16,3 +16,7 @@
 ## Which country does what
 - India does only Design and Verification of Chips via Fabless companies
 ![Screenshot from 2024-05-11 15-35-03](https://github.com/PranabNandy/SCP/assets/34576104/e622f53e-6f34-4fdc-bd0f-240863c59bb9)
+
+## Sand, silicon, wafer & Chip
+![Screenshot from 2024-05-11 22-22-08](https://github.com/PranabNandy/SCP/assets/34576104/6e32d37c-182f-46d7-b2b0-efd7600189c0)
+![Screenshot from 2024-05-11 22-22-20](https://github.com/PranabNandy/SCP/assets/34576104/f07b424d-6d28-4d15-a593-d8145b6d21cf)
